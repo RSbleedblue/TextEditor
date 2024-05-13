@@ -32,7 +32,7 @@ const Editor = () => {
       <div className="w-full flex gap-10 justify-between ">
         <div className="flex flex-col items-center w-[40%]">
           <label className="text-[50px] font-semibold text-gray-700">
-            Welcome Back!
+            Welcome.
           </label>
           <p className="text-sm text-gray-500 ">{currentDate}</p>
         </div>
